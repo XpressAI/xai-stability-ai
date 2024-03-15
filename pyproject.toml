@@ -10,5 +10,5 @@ keywords = ["xircuits", "machine learning", "generative ai", "image", "image gen
 
 # Xircuits-specific configurations
 [tool.xircuits]
-default_example_path = "examples/example.xircuits"
+default_example_path = "examples/stabilityai_example.xircuits"
 requirements_path = "requirements.txt"
