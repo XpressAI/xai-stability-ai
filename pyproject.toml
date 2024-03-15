@@ -1,12 +1,12 @@
 [project]
-name = "xircuits-component-library-template"
+name = "xai-stability-ai"
 version = "0.1.0"
-description = "A brief description of your component library"
-authors = [{ name = "Your Name", email = "you@example.com" }]
-license = "Apache-2.0"
+description = "A component library for interacting with the Stability AI platform."
+authors = [{ name = "Your Name", email = "eduardo@xpress.ai" }]
+license = "MIT"
 readme = "README.md"
-repository = "https://github.com/yourrepo/your-library"
-keywords = ["xircuits", "machine learning", "database", "data processing", "xircuits"]
+repository = "https://github.com/xpressai/xai-stability-ai"
+keywords = ["xircuits", "machine learning", "generative ai", "image", "image generation"]
 
 # Xircuits-specific configurations
 [tool.xircuits]
