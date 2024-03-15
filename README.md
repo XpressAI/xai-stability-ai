@@ -1,18 +1,18 @@
-# Xircuits Component Library Template
+# Stability AI Component Library
 
-This section should have a short description on what is does.
-
-## Prerequisites
-
-A project may have prerequisites such as models that needs to be downloaded or non-python related setup. You may list them down here.
+This library provides a set of components that let you interact with the Stability API in xircuits.
 
 ## Installation
 
 ```
-pip install -r requirements.txt
+xircuits install xai-stability-ai
 ```
 
-To use this component library, simply copy the directory / clone or submodule the repository to your working Xircuits project directory.
+Or do the following.
 
-## Tests
-A github action to test your workflow runs has been provided. Simply add the path of your workflow [here](.github/workflows/run-workflow-tests.yml#L13).
+```
+cd xai_components
+git clone https://github.com/XpressAI/xai-stability-ai.git xai_stability_ai
+cd xai_stability_ai
+pip install -r requirements.txt
+```
